@@ -4,11 +4,11 @@
 - NIM: 2309106048
 
 - Tampilan default:
-[!alt](documentation/default.png)
+![alt](documentation/default.png)
 - Tampilan tugas baru:
-[!alt](documentation/newTask.png)
+![alt](documentation/newTask.png)
 - Tampilan tugas selesai:
-[!alt](documentation/taskDone.png)
+![alt](documentation/taskDone.png)
 - Tampilan hapus tugas:
-[!alt](documentation/deleteTask.png)
+![alt](documentation/deleteTask.png)
 
