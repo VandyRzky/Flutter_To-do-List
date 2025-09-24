@@ -1,16 +1,14 @@
-# to_do_list
+# to do list application
 
-To do List Application
+- Nama: Vandy Rizky Septiawan
+- NIM: 2309106048
 
-## Getting Started
+- Tampilan default:
+[!alt](documentation/default.png)
+- Tampilan tugas baru:
+[!alt](documentation/newTask.png)
+- Tampilan tugas selesai:
+[!alt](documentation/taskDone.png)
+- Tampilan hapus tugas:
+[!alt](documentation/deleteTask.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
